@@ -18,7 +18,7 @@ It is built around a simple Property Listing application with the following feat
 
 🛠️ Setup
 1. Clone Repository
-git clone https://github.com/<Bemnet57>/alx-backend-caching_property_listings.git
+git clone https://github.com/Bemnet57/alx-backend-caching_property_listings.git
 cd alx-backend-caching_property_listings
 
 2. Start Services with Docker
